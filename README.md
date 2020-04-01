@@ -1,11 +1,11 @@
-<b size="3">UViko</b>
+<b size="3">UMPC University of Ulsan Multi-Parallel Corpus</b>
 
-UMPC University of Ulsan - Multi-Parallel Corpus with Korean Word-Sense Annotation and Korean Word-sense disambiguation and Morphological analysis have been built in NLP Lab., University of Ulsan, Rep. of Korea. (http://nlplab.ulsan.ac.kr).
+UMPC University of Ulsan Multi-Parallel Corpus with Korean Word-Sense Annotation and Korean Word-sense disambiguation and Morphological analysis have been built in NLP Lab., University of Ulsan, Rep. of Korea. (http://nlplab.ulsan.ac.kr).
 
 
 UKren is a large-scale Korean-English Parallel Corpus with the detailed information as the following.
 	
-	. Ukren: Korean-English Parallel Corpus.
+	. UKren: Korean-English Parallel Corpus.
 	
 	. UKren_WS_Ann : Korean-English Parallel Corpus with Word-sense annotation for Korean by UTagger
 	
@@ -36,7 +36,11 @@ UKren is a large-scale Korean-English Parallel Corpus with the detailed informat
 		
 		. Korean with Word-sense annotation: 135,657
 
-UViko is a large-scale Vietnamese - Korean Parallel Corpus with the detailed information as the following.
+UKrvi is a large-scale Vietnamese - Korean Parallel Corpus with the detailed information as the following.
+	
+	. UKrvi: Korean-Vietname Parallel Corpus.
+	
+	. UKrvi_WS_Ann : Korean-Vietnamese Parallel Corpus with Word-sense annotation for Korean by UTagger
 
 	. Total sentences: 454,751 pairs	
 
