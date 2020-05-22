@@ -1,6 +1,6 @@
-<b size="3">UMPC University of Ulsan Multi-Parallel Corpus</b>
+<b size="3">UPC - University of Ulsan Open Parallel Corpora</b>
 
-UMPC University of Ulsan Multi-Parallel Corpus with Korean Word-Sense Annotation and Korean Word-sense disambiguation and Morphological analysis have been built in NLP Lab., University of Ulsan, Rep. of Korea. (http://nlplab.ulsan.ac.kr).
+UPC - University of Ulsan Open Parallel Corpora with Korean Word-Sense Annotation and Morphological analysis have been built in NLP Lab., University of Ulsan, Rep. of Korea. (http://nlplab.ulsan.ac.kr).
 
 
 UKren is a large-scale Korean-English Parallel Corpus with the detailed information as the following.
@@ -74,9 +74,7 @@ UKrvi is a large-scale Vietnamese - Korean Parallel Corpus with the detailed inf
 
 . The Korean Word-sense disambiguation and Morphological analysis were conducted by UTagger (http://nlplab.ulsan.ac.kr/doku.php?id=utagger) that consists of the following processes:
 
-	. Korean morphological analysis
-
-	
+		
 	
 . Sense-codes tagging (A sense-code, which represents a special sense of a word is defined in the Standard Korean Language Dictionary)
 x_original_sample.txt and x_WSD_MA_sample.txt are the sample files with 5,000 sentence pairs. If you want to use the full corpus, please contact us through e-mail: haivv279@gmail.com
